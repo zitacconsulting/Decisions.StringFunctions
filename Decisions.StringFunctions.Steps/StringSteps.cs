@@ -7,7 +7,7 @@ namespace Decisions.StringFunctions.Steps;
 [AutoRegisterMethodsOnClass(true, "Data", "Text")]
 public class StringSteps
 {
-    public static string RemoveAccents(string text){     
+    public static string RemoveAccentsAndDiacritics(string text){     
     StringBuilder sbReturn = new StringBuilder();     
     var arrayText = text.Normalize(System.Text.NormalizationForm.FormD).ToCharArray();  
    foreach (char letter in arrayText){     
