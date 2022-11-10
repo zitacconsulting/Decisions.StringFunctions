@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\Decisions.StringFunctions.Steps.csproj": {}
+    "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\Decisions.StringFunctions.Steps.csproj": {
+    "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\Decisions.StringFunctions.Steps.csproj",
-        "projectName": "Decisions.StringFunctions.Steps",
-        "projectPath": "C:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\Decisions.StringFunctions.Steps.csproj",
-        "packagesPath": "C:\\Users\\Kenny Vigersand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\obj\\",
+        "projectUniqueName": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj",
+        "projectName": "Zitac.StringFunctions.Steps",
+        "projectPath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj",
+        "packagesPath": "C:\\Users\\svc-decisions\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kenny Vigersand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\svc-decisions\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

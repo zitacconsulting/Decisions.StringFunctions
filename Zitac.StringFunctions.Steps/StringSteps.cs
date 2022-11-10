@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Text;
 
-namespace Decisions.StringFunctions.Steps;
+namespace Zitac.StringFunctions.Steps;
 
 [AutoRegisterMethodsOnClass(true, "Data", "Text")]
 public class StringSteps

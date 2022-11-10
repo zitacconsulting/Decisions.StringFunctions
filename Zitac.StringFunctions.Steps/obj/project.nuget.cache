@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUhVoj0j8ca/bSeTsGw0qS1S4DFwb6tEKXrIhlAIXj2/e6qpgz4b9GRbOJUDbRCkRje7ChH4cxmyCRE78953CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svc-decisions\\.nuget\\packages\\decisionssdk\\8.3.1\\decisionssdk.8.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

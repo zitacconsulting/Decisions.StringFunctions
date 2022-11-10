@@ -1,0 +1,12 @@
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\bin\Debug\net6.0\Zitac.StringFunctions.Steps.deps.json
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\bin\Debug\net6.0\Zitac.StringFunctions.Steps.dll
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\bin\Debug\net6.0\ref\Zitac.StringFunctions.Steps.dll
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\bin\Debug\net6.0\Zitac.StringFunctions.Steps.pdb
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\Zitac.StringFunctions.Steps.csproj.AssemblyReference.cache
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\Zitac.StringFunctions.Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\Zitac.StringFunctions.Steps.AssemblyInfoInputs.cache
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\Zitac.StringFunctions.Steps.AssemblyInfo.cs
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\Zitac.StringFunctions.Steps.csproj.CoreCompileInputs.cache
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\Zitac.StringFunctions.Steps.dll
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\ref\Zitac.StringFunctions.Steps.dll
+C:\Users\svc-decisions\Desktop\GIT\Decisions.StringFunctions\Zitac.StringFunctions.Steps\obj\Debug\net6.0\Zitac.StringFunctions.Steps.pdb

@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zitac.StringFunctions.Steps/1.0.0": {
+        "dependencies": {
+          "DecisionsSDK": "8.3.1"
+        },
+        "runtime": {
+          "Zitac.StringFunctions.Steps.dll": {}
+        }
+      },
+      "DecisionsSDK/8.3.1": {
+        "runtime": {
+          "lib/net6.0/Decisions.Web.Core.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          },
+          "lib/net6.0/DecisionsFramework.dll": {
+            "assemblyVersion": "8.3.1.0",
+            "fileVersion": "8.3.1.4940"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zitac.StringFunctions.Steps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecisionsSDK/8.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-csXqiWiK8TCaAbOEW4aXjvyjM5X9XYWSnLxTQEmvw6QrM3R41GhJYwN3NuL5N0P3FfmjXfXY1u+1vWZ1+XlSdg==",
+      "path": "decisionssdk/8.3.1",
+      "hashPath": "decisionssdk.8.3.1.nupkg.sha512"
+    }
+  }
+}
