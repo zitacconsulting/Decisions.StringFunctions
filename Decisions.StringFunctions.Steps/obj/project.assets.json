@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DecisionsSDK/8.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Decisions.Web.Core.dll": {},
+          "lib/net6.0/DecisionsFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Decisions.Web.Core.dll": {},
+          "lib/net6.0/DecisionsFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecisionsSDK/8.3.1": {
+      "sha512": "csXqiWiK8TCaAbOEW4aXjvyjM5X9XYWSnLxTQEmvw6QrM3R41GhJYwN3NuL5N0P3FfmjXfXY1u+1vWZ1+XlSdg==",
+      "type": "package",
+      "path": "decisionssdk/8.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/CompleteASyncStep.cs.pp",
+        "Content/CompleteSyncStep.cs.pp",
+        "Content/SimpleFlowSteps.cs.pp",
+        "Content/WebinarExamples.cs.pp",
+        "decisionssdk.8.3.1.nupkg.sha512",
+        "decisionssdk.nuspec",
+        "lib/net6.0/Decisions.Web.Core.dll",
+        "lib/net6.0/DecisionsFramework.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DecisionsSDK >= 8.3.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kenny Vigersand\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\Decisions.StringFunctions.Steps.csproj",
+      "projectName": "Decisions.StringFunctions.Steps",
+      "projectPath": "c:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\Decisions.StringFunctions.Steps.csproj",
+      "packagesPath": "C:\\Users\\Kenny Vigersand\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Kenny Vigersand\\Documents\\GIT\\Decisions.StringFunctions\\Decisions.StringFunctions.Steps\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kenny Vigersand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "DecisionsSDK": {
+            "target": "Package",
+            "version": "[8.3.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

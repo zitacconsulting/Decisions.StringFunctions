@@ -1,0 +1,12 @@
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\bin\Debug\net6.0\Decisions.StringFunctions.Steps.deps.json
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\bin\Debug\net6.0\Decisions.StringFunctions.Steps.dll
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\bin\Debug\net6.0\Decisions.StringFunctions.Steps.pdb
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\Decisions.StringFunctions.Steps.csproj.AssemblyReference.cache
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\Decisions.StringFunctions.Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\Decisions.StringFunctions.Steps.AssemblyInfoInputs.cache
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\Decisions.StringFunctions.Steps.AssemblyInfo.cs
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\Decisions.StringFunctions.Steps.csproj.CoreCompileInputs.cache
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\Decisions.StringFunctions.Steps.dll
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\refint\Decisions.StringFunctions.Steps.dll
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\Decisions.StringFunctions.Steps.pdb
+C:\Users\Kenny Vigersand\Documents\GIT\Decisions.StringFunctions\Decisions.StringFunctions.Steps\obj\Debug\net6.0\ref\Decisions.StringFunctions.Steps.dll
