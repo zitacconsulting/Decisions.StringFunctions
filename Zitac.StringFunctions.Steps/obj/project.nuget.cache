@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KUhVoj0j8ca/bSeTsGw0qS1S4DFwb6tEKXrIhlAIXj2/e6qpgz4b9GRbOJUDbRCkRje7ChH4cxmyCRE78953CA==",
+  "dgSpecHash": "o2InV0EmJgTeGWho6522DvAW7C+lKqsoA78NsSgXhjalqX3G6X0lDs331BaAI8aWJVAMk5a7MeM/tUcdNZfv3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj",
+  "projectFilePath": "/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/Zitac.StringFunctions.Steps.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\svc-decisions\\.nuget\\packages\\decisionssdk\\8.3.1\\decisionssdk.8.3.1.nupkg.sha512"
+    "/home/kenny/.nuget/packages/decisionssdk/8.3.1/decisionssdk.8.3.1.nupkg.sha512"
   ],
   "logs": []
 }

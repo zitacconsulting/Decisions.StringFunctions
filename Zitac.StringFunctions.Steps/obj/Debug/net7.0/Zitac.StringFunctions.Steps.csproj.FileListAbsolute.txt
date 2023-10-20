@@ -1,0 +1,12 @@
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/bin/Debug/net7.0/Zitac.StringFunctions.Steps.deps.json
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/bin/Debug/net7.0/Zitac.StringFunctions.Steps.dll
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/bin/Debug/net7.0/Zitac.StringFunctions.Steps.pdb
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/Zitac.StringFunctions.Steps.csproj.AssemblyReference.cache
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/Zitac.StringFunctions.Steps.GeneratedMSBuildEditorConfig.editorconfig
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/Zitac.StringFunctions.Steps.AssemblyInfoInputs.cache
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/Zitac.StringFunctions.Steps.AssemblyInfo.cs
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/Zitac.StringFunctions.Steps.csproj.CoreCompileInputs.cache
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/Zitac.StringFunctions.Steps.dll
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/refint/Zitac.StringFunctions.Steps.dll
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/Zitac.StringFunctions.Steps.pdb
+/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/Debug/net7.0/ref/Zitac.StringFunctions.Steps.dll

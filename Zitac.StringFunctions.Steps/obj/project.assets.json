@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net7.0": {
       "DecisionsSDK/8.3.1": {
         "type": "package",
         "compile": {
@@ -35,38 +35,34 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net7.0": [
       "DecisionsSDK >= 8.3.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\svc-decisions\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/kenny/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj",
+      "projectUniqueName": "/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/Zitac.StringFunctions.Steps.csproj",
       "projectName": "Zitac.StringFunctions.Steps",
-      "projectPath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\Zitac.StringFunctions.Steps.csproj",
-      "packagesPath": "C:\\Users\\svc-decisions\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svc-decisions\\Desktop\\GIT\\Decisions.StringFunctions\\Zitac.StringFunctions.Steps\\obj\\",
+      "projectPath": "/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/Zitac.StringFunctions.Steps.csproj",
+      "packagesPath": "/home/kenny/.nuget/packages/",
+      "outputPath": "/home/kenny/Desktop/GIT/Decisions.StringFunctions/Zitac.StringFunctions.Steps/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\svc-decisions\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/kenny/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -77,8 +73,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "DecisionsSDK": {
             "target": "Package",
@@ -91,7 +87,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -100,7 +97,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
