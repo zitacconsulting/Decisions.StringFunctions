@@ -1,0 +1,23 @@
+{
+    "Resources": {
+        "NoComponents": true,
+        "CoreServicesDlls": [
+            "./Zitac.StringFunctions.Steps/bin/Zitac.StringFunctions.Steps.dll"
+        ],
+        "ReferenceDlls": null,
+        "CustomImages": [
+            "zitac.svg"
+        ],
+        "CliDlls": null,
+        "WebPages": null,
+        "SilverlightDlls": null,
+        "AgentDlls": null,
+        "InstallScript": null,
+        "SqlScripts": null,
+        "ObjectsToImport": null,
+        "MsSqlScript": null
+    },
+    "Version": "8.15.0",
+    "ImagePath": "zitac.svg",
+    "Description": "This module adds string functions"
+}
